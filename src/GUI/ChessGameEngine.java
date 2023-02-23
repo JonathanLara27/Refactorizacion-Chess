@@ -1,4 +1,4 @@
-package Juego;
+package GUI;
 import java.util.ArrayList;
 import java.awt.Color;
 import javax.swing.JOptionPane;
@@ -171,7 +171,6 @@ public class ChessGameEngine{
         else
         {
             board.resetBoard( false );
-            // System.exit(0);
         }
     }
     /**

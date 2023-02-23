@@ -1,4 +1,4 @@
-package Juego;
+package GUI;
 import java.util.ArrayList;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -157,7 +157,6 @@ public class ChessGameBoard extends JPanel{
             }
         }
         repaint();
-        //revalidate();
         // only the combination of these two calls work...*shrug*
     }
     /**

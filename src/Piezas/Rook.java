@@ -1,8 +1,9 @@
 package Piezas;
 import javax.swing.ImageIcon;
 
-import Juego.ChessGameBoard;
-import Juego.ChessGamePiece;
+import GUI.ChessGameBoard;
+import GUI.ChessGamePiece;
+
 import java.util.ArrayList;
 // -------------------------------------------------------------------------
 /**

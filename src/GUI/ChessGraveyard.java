@@ -1,4 +1,4 @@
-package Juego;
+package GUI;
 import java.awt.GridLayout;
 import javax.swing.*;
 

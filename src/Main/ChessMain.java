@@ -1,6 +1,7 @@
 package Main;
-import Juego.ChessPanel;
 import javax.swing.*;
+
+import GUI.ChessPanel;
 
 // -------------------------------------------------------------------------
 /**

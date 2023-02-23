@@ -2,8 +2,8 @@ package Piezas;
 import java.util.ArrayList;
 import javax.swing.ImageIcon;
 
-import Juego.ChessGameBoard;
-import Juego.ChessGamePiece;
+import GUI.ChessGameBoard;
+import GUI.ChessGamePiece;
 // -------------------------------------------------------------------------
 /**
  * Class to represent the Bishop piece.
