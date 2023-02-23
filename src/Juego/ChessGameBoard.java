@@ -1,8 +1,17 @@
+package Juego;
 import java.util.ArrayList;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.Color;
 import javax.swing.JPanel;
+
+import Piezas.Bishop;
+import Piezas.King;
+import Piezas.Knight;
+import Piezas.Pawn;
+import Piezas.Queen;
+import Piezas.Rook;
+
 import java.awt.GridLayout;
 // -------------------------------------------------------------------------
 /**

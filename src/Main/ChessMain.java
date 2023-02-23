@@ -1,4 +1,7 @@
+package Main;
+import Juego.ChessPanel;
 import javax.swing.*;
+
 // -------------------------------------------------------------------------
 /**
  * Shows the GUI for the Chess game.

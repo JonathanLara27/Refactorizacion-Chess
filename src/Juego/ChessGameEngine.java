@@ -1,6 +1,10 @@
+package Juego;
 import java.util.ArrayList;
 import java.awt.Color;
 import javax.swing.JOptionPane;
+
+import Piezas.King;
+
 import java.awt.event.MouseEvent;
 // -------------------------------------------------------------------------
 /**
